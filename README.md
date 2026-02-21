@@ -1,4 +1,6 @@
-# Uni Scheduler (Generador de Horarios Universitarios)
+#POR TERMINAR
+
+# Uni  (Generador de Horarios Universitarios)
 
 Sistema completo para generar horarios académicos para **Ingeniería**, **Ciencias** y **Letras** con reglas:
 - Ventana: 07:00–20:00, resolución 30 min.
